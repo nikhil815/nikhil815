@@ -1,10 +1,10 @@
 ### Hi there 👋
 ---
 ### ⭐ About Me :
-### I'm a Software Developer residing in Ottawa :canada: and originally from Mauritius 🇲🇺:beach_umbrella:
+### I'm a Software Developer in Ottawa :canada: and originally from Mauritius 🇲🇺:beach_umbrella:
 - :man_student: I recently acquired my Bachelor's degree in Computer Science from the Univerity of Ottawa 
 - 🚀 My areas of expertise are Backend Development, Test Automation, Machine Learning, Data Science, UI Design and Analysis
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/npyndiah/))[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)]([your-linkedin-url](https://mailto:pyndiah.nikhil@gmail.com))
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/npyndiah/)
 ---
 ### :hammer_and_wrench: Programming Languages:
 <div>
@@ -19,8 +19,9 @@
   <img src=https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg title="GO" alt="GO" width="60" height="60"/>&nbsp;
 <div>
   
+ </br>
   
-### :hammer_and_wrench: Tools:
+### ⚙️: Tools:
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="80" height="80"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="node" alt="node" width="80" height="80"/>&nbsp;
@@ -34,6 +35,14 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="60" height="60"/>&nbsp;
 <div>
   
+---
+  
+ ### :cyclone: Interests Beyond Coding :
+  - Cooking and trying new cuisines 	:man_cook:
+  - Takng Care of my Cat :cat:
+  - Playing Chess :chess_pawn:
+  - Going to the gym :weight_lifting:
+  - Watching Football :soccer: and F1 :racing_car:
 <!--
 **nikhil815/nikhil815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
