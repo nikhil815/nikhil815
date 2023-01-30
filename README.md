@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name's Nikhil!
 ---
 ### ⭐ About Me :
 ### I'm a Software Developer in Ottawa :canada: and originally from Mauritius 🇲🇺:beach_umbrella:
