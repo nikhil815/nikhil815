@@ -1,4 +1,4 @@
-### Hi there 👋, my name's Nikhil!
+### Hi there 👋, my name's Nick!
 ---
 ### ⭐ About Me :
 ### I'm a Software Developer in Ottawa :canada: 
