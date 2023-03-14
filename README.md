@@ -1,7 +1,7 @@
 ### Hi there 👋, my name's Nikhil!
 ---
 ### ⭐ About Me :
-### I'm a Software Developer in Ottawa :canada: and originally from Mauritius 🇲🇺:beach_umbrella:
+### I'm a Software Developer in Ottawa :canada: 
 - :man_student: I recently acquired my Bachelor's degree in Computer Science from the Univerity of Ottawa 
 - 🚀 My areas of expertise are Backend Development, Test Automation, Machine Learning, Data Science, UI Design and Analysis
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/npyndiah/)
